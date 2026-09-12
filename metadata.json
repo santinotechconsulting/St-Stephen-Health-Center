@@ -1,0 +1,6 @@
+{
+  "name": "St. Stephen Health Center & Pharmacy",
+  "description": "Professional online pharmacy, diagnostic laboratory tests, and healthcare services for St. Stephen Health Center in Terranova, Bonamekano.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
